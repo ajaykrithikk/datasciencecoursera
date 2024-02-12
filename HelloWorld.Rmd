@@ -1,9 +1,0 @@
----
-title: "HelloWorld"
-author: "ajaykrithikk"
-date: "2024-02-12"
-output: pdf_document
----
-```{r, results='asis', echo=FALSE, warning=FALSE, message=FALSE} 
-  cat("##", "this is a markdown file", "\n")
-```
